@@ -5,7 +5,6 @@
 ## Overview
 
 The Twitter Backend API is a Node.js and Express-based RESTful API designed to support user registration, authentication, and tweet management. It simulates basic Twitter functionality, allowing users to register, log in, post tweets, and view their timelines.
-## bash Copy code git clone https://github.com/yourusername/twitter-backend.git cd twitter-backend Install Dependencies
 
 ## Features
 
