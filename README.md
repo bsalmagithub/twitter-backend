@@ -1,5 +1,4 @@
 
-
 # Twitter Backend API
 
 ## Overview
@@ -224,10 +223,7 @@ Use tools like Postman or cURL to test the API endpoints:
   curl http://localhost:5001/api/tweets/user/YOUR_USER_ID
   \`\`\`
 
-## Contributing
+## Contact
 
-Feel free to open issues or submit pull requests. Ensure your code follows the project's coding standards and includes appropriate tests.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+  mail: bsalma23031999@gmail.com
+  phone no: 9573564737
